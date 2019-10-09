@@ -1,8 +1,6 @@
 #co-prime
-n=int(input()
-      )
-m=int(input()
-      )
+n=int(input())
+m=int(input())
 c=0
 d=0
 for x in range(1,n+1):
